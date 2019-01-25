@@ -24,5 +24,6 @@ This Repo is about me and my journy through Web Development.
 ## Contributors
 
 Kenneth Grannas
+
 BS in Computer Science
 
