@@ -27,3 +27,4 @@ Kenneth Grannas
 
 BS in Computer Science
 
+![My Fiance and I in California Vacation](PICT0044.JPG)
