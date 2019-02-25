@@ -1,0 +1,17 @@
+label{
+    color:red;
+    font-size: 150%;
+}
+#color{
+    color:red;
+}
+#answer{
+    color:red;
+    font-size: 150%;
+    font-weight: bold;
+}
+.background{
+    border-style: solid;
+    border-color: black;
+    background-color: grey;
+}

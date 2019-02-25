@@ -8,6 +8,7 @@
         integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
 <!------ Include the above in your HEAD tag ---------->
 <link rel="stylesheet" href="./css/grannas.css">
+<link rel="stylesheet" href="./css/calc.css">
 <body class="tstimg">
 </head>
 
@@ -33,16 +34,19 @@
             </div>
         </nav>
 <main>
-    <p2>Calculate the area of a rectangle!</p2>
+    <div class="background">
+    <h3 id="color">Calculate the area of a rectangle!</h3>
+    <br>
     <label for="Width">Enter Width</label>
     <input id="Width" type="number" class="form-control" value="0" required>
     <label for="Height">Enter Height</label>
     <input id="Height" type="number" class="form-control" value="0" required>
     <button id="calcButton" >Area</button>
-    <p>Your area is: </p>
+    <p id="answer">Your area with your Width () and Height () is: </p>
+</div>
 </main>
 
-
+<script  src="scripts/grannas.js"></script>
 </body>
 
 </html>
